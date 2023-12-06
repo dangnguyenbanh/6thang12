@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\formkiemtra\formkiemtra\bin\Debug\formkiemtra.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\formkiemtra\formkiemtra\obj\Debug\formkiemtra.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\formkiemtra\formkiemtra\obj\Debug\formkiemtra.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\formkiemtra\formkiemtra\bin\Debug\formkiemtra.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\formkiemtra\formkiemtra\bin\Debug\formkiemtra.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\formkiemtra\formkiemtra\obj\Debug\formkiemtra.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\formkiemtra\formkiemtra\obj\Debug\formkiemtra.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\formkiemtra\formkiemtra\obj\Debug\formkiemtra.Form1.resources
